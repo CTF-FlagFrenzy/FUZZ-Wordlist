@@ -833,6 +833,7 @@ test
 testing
 tests
 text
+robots.txt
 texts
 ticket
 tmp
